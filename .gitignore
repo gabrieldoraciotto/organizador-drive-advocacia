@@ -1,6 +1,7 @@
 # Credenciais e tokens — NUNCA subir para o GitHub
 credentials.json
 token.json
+config.py
 
 # Arquivos gerados pelo script
 progresso.json
