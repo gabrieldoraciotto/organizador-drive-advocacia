@@ -1,0 +1,20 @@
+# Credenciais e tokens — NUNCA subir para o GitHub
+credentials.json
+token.json
+
+# Arquivos gerados pelo script
+progresso.json
+organizador.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
